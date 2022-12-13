@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "497369177531",
+    "project_id": "alpha-care-4c895",
+    "storage_bucket": "alpha-care-4c895.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497369177531:android:8bb27f2b3757ae1057389e",
+        "android_client_info": {
+          "package_name": "com.example.alpha_care_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497369177531-ienu6va3mrruioi6iohmcosp8g659jd3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alpha_care_app",
+            "certificate_hash": "32eaf9dcf5ab8e277bef20912714ea9eb8cc6e6b"
+          }
+        },
+        {
+          "client_id": "497369177531-6ut1qjt6hi8c0spon48jcgq1vpckae95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv_OOVrfZ9z2SklLJDM5b1xIYwTBjkwTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497369177531-6ut1qjt6hi8c0spon48jcgq1vpckae95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
