@@ -16,4 +16,4 @@ According to research on existing health mobile applications, users still face u
 using mobile health applications.
 
 
-[Poster Design.pdf](https://github.com/vehanmr/Alpha-Care-Application/files/11664811/Poster.Design.pdf)
+![Alpha Care_Poster Design](https://github.com/vehanmr/Alpha-Care-Application/assets/76760766/a90bb09d-7bae-44a0-8f2d-76fbfc83e45e)
