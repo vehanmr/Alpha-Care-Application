@@ -14,3 +14,6 @@ Health mobile applications are a great example of how technology has aided the h
 The Alpha Care health app offers a modern answer to many issues individuals experience in health care today.
 According to research on existing health mobile applications, users still face unsolved challenges while
 using mobile health applications.
+
+
+[Poster Design.pdf](https://github.com/vehanmr/Alpha-Care-Application/files/11664811/Poster.Design.pdf)
